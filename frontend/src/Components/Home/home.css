@@ -1,0 +1,29 @@
+.Main-body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    border:solid 1px black;
+        
+      
+}
+.searchBar{
+    border-radius: 5%;
+}
+.Tinderlicious{
+    text-align: center;
+    font: italic 1.5em "Fira Sans", serif;
+    text-shadow: 50px;
+    font-weight: bold;
+    border-bottom: 1px;
+    margin-top: 1em;
+}
+.fire-home{
+    width: 55px;
+    margin-bottom: 0.5em;
+    
+}
+.like-button{
+    display: flex;
+    justify-content: space-around
+}
